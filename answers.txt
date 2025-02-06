@@ -1,1 +1,11 @@
+(a) Agile:
+    Pros: 1) The customer is highly valued in the process, as they are involved in every step.
+          2) It's easy to accomodate for constantly changing requirements.
+    Cons: 1) Sometimes, the project can get sidetracked, making it harder to visualize how the end product will look like.
+          2) Hard to plan the resources needed for the project, as the project can get more complex as the process continues.
 
+    Non-Agile:
+    Pros: 1) Can be useful when the project has a low budget or there are time constraints.
+          2) Easier to map out a structure of the project plan, as there won't be any unplanned changes.
+    Cons: 1) Testing is delayed because you can't go to the next phase until you finish the current phase.
+          2) There is no flexibility to make dynamic changes once the development process has started.
