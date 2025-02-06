@@ -9,3 +9,5 @@
           2) Easier to map out a structure of the project plan, as there won't be any unplanned changes.
     Cons: 1) Testing is delayed because you can't go to the next phase until you finish the current phase.
           2) There is no flexibility to make dynamic changes once the development process has started.
+
+(b) The scrum master is responsible for guiding the team and handling all scrum related tasks. They have to lead and organize daily standups, handle Jira tooling, and find areas of improvement for future sprints. The product owner is responsible for coordinating the team's direction. They handle the project releases, learn the stakeholders' needs, and manage the project backlog.
