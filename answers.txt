@@ -26,3 +26,4 @@ They handle the releases, learn the stakeholders' needs, and manage the project 
     1) The team discusses the work that has been completed and problems encountered.
     2) Members also discuss areas that they could improve in.
 
+(d) An Epic is a broad, complex task that can be broken down into smaller stories. A Story is a few sentences detailing software requirements and is user-oriented. A Bug is a problem that hinders the project's progress. A Task is a piece of work that assigned to a Story.
