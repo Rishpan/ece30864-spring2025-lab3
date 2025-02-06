@@ -10,4 +10,19 @@
     Cons: 1) Testing is delayed because you can't go to the next phase until you finish the current phase.
           2) There is no flexibility to make dynamic changes once the development process has started.
 
-(b) The scrum master is responsible for guiding the team and handling all scrum related tasks. They have to lead and organize daily standups, handle Jira tooling, and find areas of improvement for future sprints. The product owner is responsible for coordinating the team's direction. They handle the project releases, learn the stakeholders' needs, and manage the project backlog.
+(b) The scrum master is responsible for guiding the team and handling all scrum related tasks. They have to lead and organize daily 
+standups, handle Jira tooling, and find areas of improvement for future sprints. The product owner is responsible for coordinating the team's direction. 
+They handle the releases, learn the stakeholders' needs, and manage the project backlog. They also mange the project budget.
+
+(c) Sprint Planning:
+    1) Decide the number of story points needed for each story.
+    2) Figure out the work that need to be done in the upcoming sprint (goal of the sprint).
+
+    Daily Standup:
+    1) Each team member discusses what they are working on and blockers that are effecting their work.
+    2) The team members also discuss what they are planning to work on for the day.
+
+    Sprint Retrospective:
+    1) The team discusses the work that has been completed and problems encountered.
+    2) Members also discuss areas that they could improve in.
+
